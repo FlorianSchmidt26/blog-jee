@@ -1,0 +1,7 @@
+{ "run": "demo-08-j2ee-modernization", "delivery_branch": "modernization/demo-08-j2ee-modernization",
+  "flow_version": "claude-code_2-1-212_agent",
+  "provider": "anthropic", "model": "claude-sonnet-5",
+  "started_at": "2026-10-01T12:20:21Z", "ended_at": null, "total_duration_min": null,
+  "tokens": { "input": null, "output": null, "total": null, "source": "studio-usage-dashboard" },
+  "cost":   { "amount": null, "currency": "USD", "source": "studio-usage-dashboard" },
+  "stages": [] }

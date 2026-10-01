@@ -1,0 +1,17 @@
+{
+  "run": "demo-08-j2ee-modernization",
+  "delivery_branch": "modernization/demo-08-j2ee-modernization",
+  "project": "blog-jee",
+  "scan_root": null,
+  "attached_at": "2026-10-01T12:20:12Z",
+  "repos": [
+    {
+      "name": "blog-jee",
+      "url": "https://github.com/FlorianSchmidt26/blog-jee",
+      "role": "both",
+      "base_branch": "master",
+      "read_only": false,
+      "detected_markers": ["pom.xml", "blog-jee-web/src/main/webapp/WEB-INF/web.xml", "blog-jee-core/pom.xml", "blog-jee-api", "blog-jee-core"]
+    }
+  ]
+}
